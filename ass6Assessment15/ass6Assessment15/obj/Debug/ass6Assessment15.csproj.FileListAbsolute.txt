@@ -1,0 +1,6 @@
+C:\Users\bhekanimasinga\Documents\ass6Assessment15\ass6Assessment15\bin\Debug\ass6Assessment15.exe.config
+C:\Users\bhekanimasinga\Documents\ass6Assessment15\ass6Assessment15\bin\Debug\ass6Assessment15.exe
+C:\Users\bhekanimasinga\Documents\ass6Assessment15\ass6Assessment15\bin\Debug\ass6Assessment15.pdb
+C:\Users\bhekanimasinga\Documents\ass6Assessment15\ass6Assessment15\obj\Debug\ass6Assessment15.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Documents\ass6Assessment15\ass6Assessment15\obj\Debug\ass6Assessment15.exe
+C:\Users\bhekanimasinga\Documents\ass6Assessment15\ass6Assessment15\obj\Debug\ass6Assessment15.pdb
